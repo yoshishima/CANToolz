@@ -1,3 +1,9 @@
+## Version 3.8.0
+
+Built for Python 3.8.0 support
+Updated time.clock() to time.process_time()
+
+
 ## Version 3.7.0
 
 See https://github.com/CANToolz/CANToolz/releases/tag/v3.7.0
